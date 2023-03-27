@@ -67,7 +67,7 @@ Reddit Clone application developed for performing user role operations with resp
 
 
 ```bash
- git clone https://github.com/ShreyaRamtirth/EcommerceJwellery.git 
+ git clone https://github.com/Ashutosh-Pawar/RedditClone.git 
 ```
 
 ### :running: Run Locally
