@@ -75,7 +75,7 @@ Reddit Clone application developed for performing user role operations with resp
 Install necessary packages with npm
 
 ```bash
-  cd "Shopping Front end"
+  cd "Reddit Front end"
   npm install
 ```
 
